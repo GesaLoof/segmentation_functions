@@ -6,7 +6,7 @@
 [![tests](https://github.com/GesaLoof/segmentation_functions/workflows/tests/badge.svg)](https://github.com/GesaLoof/segmentation_functions/actions)
 [![codecov](https://codecov.io/gh/GesaLoof/segmentation_functions/branch/main/graph/badge.svg)](https://codecov.io/gh/GesaLoof/segmentation_functions)
 
-A repo to segment microscppy images
+A repo to segment microscopy images
 
 ----------------------------------
 
